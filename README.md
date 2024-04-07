@@ -5,7 +5,7 @@
 ##### i really just redid the HTML and made the graphics better
 
 # LINKS
-soon
+(https://linearprox.cyclic.app)
 
 # HOW TO DEPLOY
 ### use (https://cyclic.app)
